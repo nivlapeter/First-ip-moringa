@@ -1,0 +1,32 @@
+.head{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-style: oblique;
+    background-color: rgb(125, 15, 228);
+    font-size: 29px;
+    text-shadow: rgb(222, 155, 135) 2px 2px;
+    
+}
+img{
+   float: left;
+   margin right : 5px;
+   margin left: 5px;
+}
+body{
+    background-color: wheat;
+    background-image: url(../Background_image.png);
+}
+.take{
+    margin: 5px;
+    float:right;
+}
+.interest{
+    width: 30%;
+    float: left;
+    border: 6px rgb(24, 219, 50);
+    border-style: dashed;
+    margin: 25px 50px 25px 50px  ;
+    padding: 5px;
+    background-color:rgb(30, 19, 187);
+    font: 1em sans-serif;
+} 
