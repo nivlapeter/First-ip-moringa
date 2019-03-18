@@ -20,6 +20,10 @@ body{
     margin: 5px;
     float:left;
 }
+.h2take{
+
+border:6px;
+}
 .interest{
     width: 30%;
     float: left;
@@ -30,3 +34,4 @@ body{
     background-color:rgb(30, 19, 187);
     font: 1em sans-serif;
 } 
+
